@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "live": "En Vivo",
+    "calendar": "Calendario",
+    "standings": "Clasificación"
+  },
+  "home": {
+    "nextRace": "Próxima Carrera",
+    "driverStandings": "Clasificación de Pilotos",
+    "constructorStandings": "Clasificación de Constructores"
+  },
+  "live": {
+    "liveSession": "Sesión en Vivo",
+    "noSession": "No hay sesión activa",
+    "nextSession": "La próxima sesión comienza en",
+    "timingTower": "Tiempos en Vivo",
+    "waitingData": "Esperando datos de tiempos…"
+  },
+  "calendar": {
+    "title": "Calendario 2025",
+    "next": "Próxima",
+    "past": "Pasada"
+  },
+  "standings": {
+    "title": "Clasificación",
+    "drivers": "Pilotos",
+    "constructors": "Constructores",
+    "position": "Pos",
+    "driver": "Piloto",
+    "team": "Equipo",
+    "points": "Pts",
+    "wins": "Victorias"
+  },
+  "session": {
+    "practice1": "Práctica 1",
+    "practice2": "Práctica 2",
+    "practice3": "Práctica 3",
+    "qualifying": "Clasificación",
+    "sprint": "Sprint",
+    "race": "Carrera"
+  },
+  "common": {
+    "loading": "Cargando…",
+    "error": "Algo salió mal",
+    "notFound": "No encontrado"
+  }
+}

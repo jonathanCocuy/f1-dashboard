@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "home": "Home",
+    "live": "Live",
+    "calendar": "Calendar",
+    "standings": "Standings"
+  },
+  "home": {
+    "nextRace": "Next Race",
+    "driverStandings": "Driver Standings",
+    "constructorStandings": "Constructor Standings"
+  },
+  "live": {
+    "liveSession": "Live Session",
+    "noSession": "No active session",
+    "nextSession": "Next session starts in",
+    "timingTower": "Live Timing",
+    "waitingData": "Waiting for timing data…"
+  },
+  "calendar": {
+    "title": "2025 Calendar",
+    "next": "Next",
+    "past": "Past"
+  },
+  "standings": {
+    "title": "Standings",
+    "drivers": "Drivers",
+    "constructors": "Constructors",
+    "position": "Pos",
+    "driver": "Driver",
+    "team": "Team",
+    "points": "Pts",
+    "wins": "Wins"
+  },
+  "session": {
+    "practice1": "Practice 1",
+    "practice2": "Practice 2",
+    "practice3": "Practice 3",
+    "qualifying": "Qualifying",
+    "sprint": "Sprint",
+    "race": "Race"
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong",
+    "notFound": "Not found"
+  }
+}
